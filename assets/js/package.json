@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "instascan": "^1.0.0",
+    "jquery-toast-plugin": "^1.3.2"
+  }
+}
